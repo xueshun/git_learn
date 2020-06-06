@@ -6,6 +6,6 @@ Change Eamil
 
 eg: xuesran@gmail.com
 
-this is my new Eamil 
+this is my new Eamil
 
 Are you think is good？
