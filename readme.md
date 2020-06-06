@@ -4,4 +4,6 @@ We are going to record some git commands here.
 
 Change Eamil
 
-What
+eg: xuesran@gmail.com
+
+Give me a reason
